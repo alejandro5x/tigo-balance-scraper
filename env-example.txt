@@ -1,0 +1,8 @@
+PANAPASS_NUMBER=yourPanapassNumber
+PANAPASS_PASSWORD=yourPanapassPassword
+MQTT_BROKER=yourMQTTBrokerAddress
+MQTT_TOPIC=yourMQTTTopic
+MQTT_ERROR_TOPIC=yourMQTTErrorTopic
+MQTT_PORT=yourMQTTPort
+MQTT_USER=yourMQTTUser
+MQTT_PASSWORD=yourMQTTPassword
